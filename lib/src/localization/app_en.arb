@@ -1,0 +1,15 @@
+{
+  "welcome": "Welcome Back",
+  "next": "Continue",
+  "signinprompt" : "Sign in with your email and password  \nor continue with social media",
+  "email" : "Email",
+  "password" : "Password",
+  "reenterpassword" : "Please re-enter your password",
+  "rememberme"    : "Remember me",
+  "forgotpassword" : "Forgot Password",
+  "sendpasswordresetlink" : "Please enter your email and we will send \nyou a link to reset your password",
+  "signupprompt" : "Don't have an account?",
+  "signup" : "Sign Up",
+  "signup2": "Complete your details or continue \nwith social media",
+  "tnc" : "By continuing you confirm that you agree \nwith our Terms and Conditions"
+}
